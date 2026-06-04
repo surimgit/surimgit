@@ -1,5 +1,15 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=%EC%B5%9C%EC%88%98%EB%A6%BC&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=%EB%8D%B0%EC%9D%B4%ED%84%B0%EA%B0%80%20%ED%9D%90%EB%A5%B4%EB%8A%94%20%EA%B8%B8%EC%9D%84%20%EC%A7%81%EC%A0%91%20%EC%84%A4%EA%B3%84%ED%95%98%EB%8A%94%20%EB%B0%B1%EC%97%94%EB%93%9C%20%EA%B0%9C%EB%B0%9C%EC%9E%90&descSize=18&descAlignY=55&textBg=false"/>
 
+## 🔗 Connect with Me
+<p align="center">
+  <a href="mailto:ruriaim@gmail.com">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
+  </a>&nbsp;
+  <a href="https://project-iseu3.vercel.app/">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" />
+  </a>
+</p>
+
 ## 🧠 My Focus Areas
 - Backend Engineering (Java / Spring)
 - Data Pipeline & Infra
@@ -69,16 +79,6 @@
 
 ![Top language](https://stats.pphat.top/languages?username=surimgit)
 <br/>
-
-## 🔗 Connect with Me
-<p align="center">
-  <a href="mailto:ruriaim@gmail.com">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
-  </a>&nbsp;
-  <a href="https://project-iseu3.vercel.app/">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" />
-  </a>
-</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
